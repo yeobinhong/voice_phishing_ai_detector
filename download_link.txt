@@ -1,0 +1,4 @@
+you can download here:
+
+numpy files, h5, hist : https://drive.google.com/drive/folders/15fsa380hG77RI8QXuqXQ_n3eVJjbY1cU?usp=sharing
+preprocessed data, korean stopwords : https://drive.google.com/drive/folders/1rhXGJPjuyiTirBgHybpouAxXVtJXcgZr?usp=sharing
